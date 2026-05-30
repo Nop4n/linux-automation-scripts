@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+.venv/
+
+# Build artifacts
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gumroad token
+.gumroad_token
+
+# Screenshots/temp files
+*.png
+*.jpg
+*.html
+screenshot*.js
+update*.py
+profile-*
+thumb-*
+social-media-posts.md
