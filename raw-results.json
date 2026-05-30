@@ -1,0 +1,458 @@
+{
+  "fetched_at": "2026-05-30T16:45:16.639322",
+  "reddit": [],
+  "stackoverflow": [
+    {
+      "title": "How do I assign slurm job name containing both parent and child script names in nested slurm scripts?",
+      "url": "https://stackoverflow.com/questions/79649981/how-do-i-assign-slurm-job-name-containing-both-parent-and-child-script-names-in",
+      "tags": [
+        "linux",
+        "bash",
+        "slurm"
+      ],
+      "created_utc": 1748880547,
+      "score": 3,
+      "view_count": 97,
+      "age_hours": 8688.602677589444,
+      "category": "Linux/Bash"
+    },
+    {
+      "title": "bash script integer comparison syntax error",
+      "url": "https://stackoverflow.com/questions/79590814/bash-script-integer-comparison-syntax-error",
+      "tags": [
+        "linux",
+        "bash",
+        "gentoo"
+      ],
+      "created_utc": 1745504005,
+      "score": 0,
+      "view_count": 184,
+      "age_hours": 9626.531010922778,
+      "category": "Linux/Bash"
+    },
+    {
+      "title": "Automating a resource allocation in bash",
+      "url": "https://stackoverflow.com/questions/79525482/automating-a-resource-allocation-in-bash",
+      "tags": [
+        "linux",
+        "bash",
+        "ssh",
+        "hpc"
+      ],
+      "created_utc": 1742561123,
+      "score": 1,
+      "view_count": 95,
+      "age_hours": 10443.998233145,
+      "category": "Linux/Bash"
+    },
+    {
+      "title": "About expect script to use deleting file in SFTP Server,",
+      "url": "https://stackoverflow.com/questions/79351008/about-expect-script-to-use-deleting-file-in-sftp-server",
+      "tags": [
+        "linux",
+        "bash",
+        "sftp",
+        "expect"
+      ],
+      "created_utc": 1736731923,
+      "score": 0,
+      "view_count": 71,
+      "age_hours": 12063.220455367222,
+      "category": "Linux/Bash"
+    },
+    {
+      "title": "Why does &quot;cat&quot; sometimes skip bytes when reading from another terminal, but the golang scan function does not?",
+      "url": "https://stackoverflow.com/questions/79327606/why-does-cat-sometimes-skip-bytes-when-reading-from-another-terminal-but-the",
+      "tags": [
+        "linux",
+        "bash",
+        "go",
+        "terminal",
+        "tty"
+      ],
+      "created_utc": 1735936059,
+      "score": 2,
+      "view_count": 166,
+      "age_hours": 12284.293788700556,
+      "category": "Linux/Bash"
+    },
+    {
+      "title": "Shell script to execute gradle build and move to .m2",
+      "url": "https://stackoverflow.com/questions/79725427/shell-script-to-execute-gradle-build-and-move-to-m2",
+      "tags": [
+        "linux",
+        "shell",
+        "sh"
+      ],
+      "created_utc": 1754344964,
+      "score": 0,
+      "view_count": 59,
+      "age_hours": 7170.709066478334,
+      "category": "Linux Shell"
+    },
+    {
+      "title": "Black output from git is unreadable in my terminal - how to change colors?",
+      "url": "https://stackoverflow.com/questions/79521128/black-output-from-git-is-unreadable-in-my-terminal-how-to-change-colors",
+      "tags": [
+        "linux",
+        "git",
+        "macos",
+        "shell",
+        "color-scheme"
+      ],
+      "created_utc": 1742410088,
+      "score": 1,
+      "view_count": 109,
+      "age_hours": 10485.952399811666,
+      "category": "Linux Shell"
+    },
+    {
+      "title": "Run another Laravels&#39; Artisan as a Subprocess from Laravel",
+      "url": "https://stackoverflow.com/questions/79435568/run-another-laravels-artisan-as-a-subprocess-from-laravel",
+      "tags": [
+        "php",
+        "linux",
+        "laravel",
+        "shell"
+      ],
+      "created_utc": 1739437003,
+      "score": 0,
+      "view_count": 58,
+      "age_hours": 11311.809344256111,
+      "category": "Linux Shell"
+    },
+    {
+      "title": "Running shell command on Ubuntu via PHP",
+      "url": "https://stackoverflow.com/questions/79279398/running-shell-command-on-ubuntu-via-php",
+      "tags": [
+        "php",
+        "linux",
+        "shell",
+        "ubuntu",
+        "sh"
+      ],
+      "created_utc": 1734117977,
+      "score": 0,
+      "view_count": 111,
+      "age_hours": 12789.316566478332,
+      "category": "Linux Shell"
+    },
+    {
+      "title": "How to identify the command behind a file descriptor created with `exec`?",
+      "url": "https://stackoverflow.com/questions/78869446/how-to-identify-the-command-behind-a-file-descriptor-created-with-exec",
+      "tags": [
+        "linux",
+        "bash",
+        "shell",
+        "unix"
+      ],
+      "created_utc": 1723617405,
+      "score": 0,
+      "view_count": 71,
+      "age_hours": 15706.142122033889,
+      "category": "Linux Shell"
+    },
+    {
+      "title": "Cell Values Not Visible With Any Font When Opening Excel Files using Devexpress ASP.NET core spreadsheet on Linux/Docker",
+      "url": "https://stackoverflow.com/questions/79700947/cell-values-not-visible-with-any-font-when-opening-excel-files-using-devexpress",
+      "tags": [
+        ".net",
+        "excel",
+        "linux",
+        "docker",
+        "devexpress"
+      ],
+      "created_utc": 1752499401,
+      "score": 0,
+      "view_count": 38,
+      "age_hours": 7683.365455367222,
+      "category": "Docker/Linux"
+    },
+    {
+      "title": "Easypanel + docker error: Command failed with Unknown system error -8",
+      "url": "https://stackoverflow.com/questions/79674461/easypanel-docker-error-command-failed-with-unknown-system-error-8",
+      "tags": [
+        "linux",
+        "docker",
+        "asp.net-core"
+      ],
+      "created_utc": 1750512063,
+      "score": 0,
+      "view_count": 129,
+      "age_hours": 8235.403788700556,
+      "category": "Docker/Linux"
+    },
+    {
+      "title": "Running a script from /opt/ is failing with Docker mounts",
+      "url": "https://stackoverflow.com/questions/79625291/running-a-script-from-opt-is-failing-with-docker-mounts",
+      "tags": [
+        "python",
+        "linux",
+        "docker",
+        "opt"
+      ],
+      "created_utc": 1747402386,
+      "score": 0,
+      "view_count": 49,
+      "age_hours": 9099.202955367222,
+      "category": "Docker/Linux"
+    },
+    {
+      "title": "Trouble Using GDB to Debug amd64 Binaries in Docker on MacBook M1",
+      "url": "https://stackoverflow.com/questions/79620573/trouble-using-gdb-to-debug-amd64-binaries-in-docker-on-macbook-m1",
+      "tags": [
+        "linux",
+        "docker",
+        "debugging",
+        "gdb"
+      ],
+      "created_utc": 1747182364,
+      "score": 2,
+      "view_count": 253,
+      "age_hours": 9160.320177589445,
+      "category": "Docker/Linux"
+    },
+    {
+      "title": "Azure Function - Linux Docker - Dotnet runtime 8.0 missing",
+      "url": "https://stackoverflow.com/questions/79588873/azure-function-linux-docker-dotnet-runtime-8-0-missing",
+      "tags": [
+        ".net",
+        "linux",
+        "docker",
+        "azure-functions",
+        "puppeteer-sharp"
+      ],
+      "created_utc": 1745419290,
+      "score": 1,
+      "view_count": 99,
+      "age_hours": 9650.062955367222,
+      "category": "Docker/Linux"
+    },
+    {
+      "title": "Determine or indicate if Linux process is started by web user (apache) or cronjob?",
+      "url": "https://stackoverflow.com/questions/79024006/determine-or-indicate-if-linux-process-is-started-by-web-user-apache-or-cronjo",
+      "tags": [
+        "python",
+        "linux",
+        "apache",
+        "cron"
+      ],
+      "created_utc": 1727282976,
+      "score": 0,
+      "view_count": 46,
+      "age_hours": 14687.927955367222,
+      "category": "Cron/Automation"
+    },
+    {
+      "title": "Where can I get better explanation of Cron Job Command?",
+      "url": "https://stackoverflow.com/questions/78086766/where-can-i-get-better-explanation-of-cron-job-command",
+      "tags": [
+        "linux",
+        "cron",
+        "command"
+      ],
+      "created_utc": 1709285512,
+      "score": 0,
+      "view_count": 24,
+      "age_hours": 19687.223510922777,
+      "category": "Cron/Automation"
+    },
+    {
+      "title": "Run php script in cron, with lockf addition",
+      "url": "https://stackoverflow.com/questions/77519381/run-php-script-in-cron-with-lockf-addition",
+      "tags": [
+        "linux",
+        "shell",
+        "cron"
+      ],
+      "created_utc": 1700521141,
+      "score": 0,
+      "view_count": 37,
+      "age_hours": 22121.771010922777,
+      "category": "Cron/Automation"
+    },
+    {
+      "title": "Open a terminal on Raspberry Pi reboot using crontab",
+      "url": "https://stackoverflow.com/questions/77271075/open-a-terminal-on-raspberry-pi-reboot-using-crontab",
+      "tags": [
+        "linux",
+        "cron",
+        "raspberry-pi"
+      ],
+      "created_utc": 1697010178,
+      "score": 0,
+      "view_count": 133,
+      "age_hours": 23097.038510922775,
+      "category": "Cron/Automation"
+    },
+    {
+      "title": "Enable cron/crontab overlapping",
+      "url": "https://stackoverflow.com/questions/76876992/enable-cron-crontab-overlapping",
+      "tags": [
+        "linux",
+        "bash",
+        "cron"
+      ],
+      "created_utc": 1691679698,
+      "score": 0,
+      "view_count": 50,
+      "age_hours": 24577.727399811665,
+      "category": "Cron/Automation"
+    },
+    {
+      "title": "Websocket connection error with Nginx on Linux server",
+      "url": "https://stackoverflow.com/questions/79154319/websocket-connection-error-with-nginx-on-linux-server",
+      "tags": [
+        "linux",
+        "nginx",
+        "websocket",
+        "blazor",
+        "signalr"
+      ],
+      "created_utc": 1730699412,
+      "score": 1,
+      "view_count": 69,
+      "age_hours": 13738.917955367222,
+      "category": "Nginx/Linux"
+    },
+    {
+      "title": "SLES 15 SP6 - Problem with Passbolt-Installation - ERROR: unable to bind listening socket for address &#39;/run/php-fpm/www.sock&#39;: Permission denied (13)",
+      "url": "https://stackoverflow.com/questions/78878393/sles-15-sp6-problem-with-passbolt-installation-error-unable-to-bind-listeni",
+      "tags": [
+        "php",
+        "linux",
+        "nginx",
+        "sles"
+      ],
+      "created_utc": 1723799443,
+      "score": 1,
+      "view_count": 102,
+      "age_hours": 15655.576010922778,
+      "category": "Nginx/Linux"
+    },
+    {
+      "title": "&#39;User.Claims&#39; object is empty when NET 6 app is deployed in Linux and returns error 401 after user login",
+      "url": "https://stackoverflow.com/questions/78792779/user-claims-object-is-empty-when-net-6-app-is-deployed-in-linux-and-returns-er",
+      "tags": [
+        "c#",
+        "angular",
+        "linux",
+        "nginx",
+        "identityserver4"
+      ],
+      "created_utc": 1721902982,
+      "score": 0,
+      "view_count": 38,
+      "age_hours": 16182.370733144999,
+      "category": "Nginx/Linux"
+    },
+    {
+      "title": "Nginx always redirect to https",
+      "url": "https://stackoverflow.com/questions/78666000/nginx-always-redirect-to-https",
+      "tags": [
+        "linux",
+        "docker",
+        "nginx",
+        "raspberry-pi"
+      ],
+      "created_utc": 1719301492,
+      "score": 0,
+      "view_count": 66,
+      "age_hours": 16905.00684425611,
+      "category": "Nginx/Linux"
+    },
+    {
+      "title": "Nginx cuts off part of the response from php-fpm",
+      "url": "https://stackoverflow.com/questions/78113254/nginx-cuts-off-part-of-the-response-from-php-fpm",
+      "tags": [
+        "php",
+        "linux",
+        "ubuntu",
+        "nginx"
+      ],
+      "created_utc": 1709717981,
+      "score": 1,
+      "view_count": 250,
+      "age_hours": 19567.093233145,
+      "category": "Nginx/Linux"
+    },
+    {
+      "title": "Why won&#39;t AddressSanitizer log my DEADLYSIGNAL/bug only when LeakSanitizer is off?",
+      "url": "https://stackoverflow.com/questions/79618739/why-wont-addresssanitizer-log-my-deadlysignal-bug-only-when-leaksanitizer-is-of",
+      "tags": [
+        "c",
+        "linux",
+        "systemd",
+        "address-sanitizer"
+      ],
+      "created_utc": 1747091620,
+      "score": 1,
+      "view_count": 69,
+      "age_hours": 9185.526844256112,
+      "category": "Systemd"
+    },
+    {
+      "title": "How to detect if a Java application running as a systemd service is operating within an LXC container?",
+      "url": "https://stackoverflow.com/questions/79138119/how-to-detect-if-a-java-application-running-as-a-systemd-service-is-operating-wi",
+      "tags": [
+        "java",
+        "linux",
+        "systemd",
+        "lxc"
+      ],
+      "created_utc": 1730219210,
+      "score": 1,
+      "view_count": 79,
+      "age_hours": 13872.307399811665,
+      "category": "Systemd"
+    },
+    {
+      "title": "Manually start a second AstraLinux session as another user on a virtual display with low integrity level",
+      "url": "https://stackoverflow.com/questions/78812282/manually-start-a-second-astralinux-session-as-another-user-on-a-virtual-display",
+      "tags": [
+        "linux",
+        "go",
+        "systemd",
+        "goland",
+        "pam"
+      ],
+      "created_utc": 1722349379,
+      "score": 1,
+      "view_count": 113,
+      "age_hours": 16058.371566478332,
+      "category": "Systemd"
+    },
+    {
+      "title": "Azure Pipeline start and stop user service with systemctl",
+      "url": "https://stackoverflow.com/questions/78535419/azure-pipeline-start-and-stop-user-service-with-systemctl",
+      "tags": [
+        "linux",
+        "azure-devops",
+        "azure-pipelines",
+        "debian",
+        "systemd"
+      ],
+      "created_utc": 1716730480,
+      "score": 0,
+      "view_count": 612,
+      "age_hours": 17619.17684425611,
+      "category": "Systemd"
+    },
+    {
+      "title": "configuring env-vars for R-Studio Server users using SystemD",
+      "url": "https://stackoverflow.com/questions/78264149/configuring-env-vars-for-r-studio-server-users-using-systemd",
+      "tags": [
+        "r",
+        "linux",
+        "openmp",
+        "systemd",
+        "rstudio-server"
+      ],
+      "created_utc": 1712093274,
+      "score": 2,
+      "view_count": 218,
+      "age_hours": 18907.289622033888,
+      "category": "Systemd"
+    }
+  ]
+}
